@@ -99,5 +99,6 @@ public class EpamTest {
         else throw new NullPointerException ("Error below text");
         //Browser is closed
         driver.quit();
+        //download
     }
 }
